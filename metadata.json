@@ -1,0 +1,6 @@
+{
+  "name": "BlockShield AI - Autonomous Threat Detection & Incident Response",
+  "description": "Enterprise Web3 & Cloud security intelligence platform powered by n8n automated detection agents and blockchain audit verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
